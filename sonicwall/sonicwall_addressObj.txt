@@ -1,0 +1,5301 @@
+address-object ipv4 MSFT-WAC-IPv4-1
+network 13.107.6.171 /32
+zone WAN
+exit
+address-object ipv4 MSFT-WAC-IPv4-2
+network 13.107.140.6 /32
+zone WAN
+exit
+address-object ipv4 MSFT-WAC-IPv4-3
+network 52.108.0.0 /14
+zone WAN
+exit
+address-object ipv4 MSFT-WAC-IPv4-4
+network 52.238.106.116 /32
+zone WAN
+exit
+address-object ipv4 MSFT-WAC-IPv4-5
+network 52.247.150.191 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Planner-IPv4-1
+network 13.107.6.160 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Planner-IPv4-2
+network 13.107.9.160 /32
+zone WAN
+exit
+address-object ipv4 MSFT-ProPlus-IPv4-1
+network 13.107.12.51 /32
+zone WAN
+exit
+address-object ipv4 MSFT-ProPlus-IPv4-2
+network 104.40.234.17 /32
+zone WAN
+exit
+address-object ipv4 MSFT-ProPlus-IPv4-3
+network 104.210.220.25 /32
+zone WAN
+exit
+address-object ipv4 MSFT-ProPlus-IPv4-4
+network 191.236.108.93 /32
+zone WAN
+exit
+address-object ipv4 MSFT-ProPlus-IPv4-5
+network 191.236.157.212 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Yammer-IPv4-1
+network 13.107.6.158 /31
+zone WAN
+exit
+address-object ipv4 MSFT-Yammer-IPv4-2
+network 13.107.9.158 /31
+zone WAN
+exit
+address-object ipv4 MSFT-Yammer-IPv4-3
+network 40.78.62.210 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Yammer-IPv4-4
+network 134.170.148.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-1
+network 13.70.151.216 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-2
+network 13.71.127.197 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-3
+network 13.75.126.169 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-4
+network 13.72.245.115 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-5
+network 13.73.1.120 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-6
+network 13.89.240.113 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-7
+network 13.107.3.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-8
+network 13.107.64.0 /18
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-9
+network 51.140.143.149 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-10
+network 51.140.155.234 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-11
+network 51.140.203.190 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-12
+network 51.141.51.76 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-13
+network 52.112.0.0 /14
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-14
+network 52.163.126.215 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-15
+network 52.170.21.67 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-16
+network 52.172.185.18 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-17
+network 52.178.94.2 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-18
+network 52.178.161.139 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-19
+network 52.228.25.96 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-20
+network 52.231.36.175 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-21
+network 52.231.207.185 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-22
+network 52.238.119.141 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-23
+network 52.242.23.189 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-24
+network 52.244.160.207 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-25
+network 104.46.62.41 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-26
+network 104.215.11.144 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-27
+network 104.215.62.195 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Teams-IPv4-28
+network 138.91.237.237 /32
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-1
+network 13.107.6.152 /31
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-2
+network 13.107.9.152 /31
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-3
+network 13.107.18.10 /31
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-4
+network 13.107.19.10 /31
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-5
+network 13.107.128.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-6
+network 23.103.160.0 /20
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-7
+network 23.103.224.0 /19
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-8
+network 40.96.0.0 /13
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-9
+network 40.104.0.0 /15
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-10
+network 52.96.0.0 /14
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-11
+network 111.221.112.0 /21
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-12
+network 131.253.33.215 /32
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-13
+network 132.245.0.0 /16
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-14
+network 134.170.68.0 /23
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-15
+network 150.171.32.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-16
+network 157.56.232.0 /21
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-17
+network 157.56.240.0 /20
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-18
+network 191.232.96.0 /19
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-19
+network 191.234.6.152 /32
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-20
+network 191.234.140.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-21
+network 204.79.197.215 /32
+zone WAN
+exit
+address-object ipv4 MSFT-EXO-IPv4-22
+network 206.191.224.0 /19
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-1
+network 13.107.6.150 /31
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-2
+network 13.107.6.168 /32
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-3
+network 13.107.9.150 /31
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-4
+network 13.107.9.168 /32
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-5
+network 13.107.136.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-6
+network 40.108.0.0 /19
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-7
+network 40.108.128.0 /17
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-8
+network 52.104.0.0 /14
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-9
+network 104.146.0.0 /19
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-10
+network 104.146.128.0 /17
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-11
+network 134.170.200.0 /21
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-12
+network 134.170.208.0 /21
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-13
+network 150.171.40.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-14
+network 191.232.0.0 /23
+zone WAN
+exit
+address-object ipv4 MSFT-SPO-IPv4-15
+network 191.235.0.0 /20
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-1
+network 13.70.151.216 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-2
+network 13.71.127.197 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-3
+network 13.75.126.169 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-4
+network 13.72.245.115 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-5
+network 13.73.1.120 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-6
+network 13.89.240.113 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-7
+network 13.107.3.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-8
+network 13.107.64.0 /18
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-9
+network 51.140.143.149 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-10
+network 51.140.155.234 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-11
+network 51.140.203.190 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-12
+network 51.141.51.76 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-13
+network 52.112.0.0 /14
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-14
+network 52.163.126.215 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-15
+network 52.170.21.67 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-16
+network 52.172.185.18 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-17
+network 52.178.94.2 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-18
+network 52.178.161.139 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-19
+network 52.228.25.96 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-20
+network 52.231.36.175 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-21
+network 52.231.207.185 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-22
+network 52.238.119.141 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-23
+network 52.242.23.189 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-24
+network 52.244.160.207 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-25
+network 104.215.11.144 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-26
+network 104.215.62.195 /32
+zone WAN
+exit
+address-object ipv4 MSFT-LYO-IPv4-27
+network 138.91.237.237 /32
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-1
+network 13.67.50.224 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-2
+network 13.71.201.64 /26
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-3
+network 13.106.4.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-4
+network 13.75.48.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-5
+network 13.75.80.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-6
+network 13.106.56.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-7
+network 20.190.128.0 /18
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-8
+network 23.100.16.168 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-9
+network 23.100.32.136 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-10
+network 23.100.64.24 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-11
+network 23.100.72.32 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-12
+network 23.100.80.64 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-13
+network 23.100.88.32 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-14
+network 23.100.101.112 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-15
+network 23.100.104.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-16
+network 23.100.112.64 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-17
+network 23.100.120.64 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-18
+network 23.101.5.104 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-19
+network 23.101.144.136 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-20
+network 23.101.165.168 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-21
+network 23.101.181.128 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-22
+network 23.101.210.24 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-23
+network 23.101.222.240 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-24
+network 23.101.224.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-25
+network 23.101.226.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-26
+network 40.112.64.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-27
+network 40.113.192.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-28
+network 40.114.120.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-29
+network 40.115.152.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-30
+network 40.127.67.24 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-31
+network 40.126.0.0 /18
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-32
+network 52.172.144.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-33
+network 65.52.1.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-34
+network 65.52.193.136 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-35
+network 65.54.170.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-36
+network 70.37.154.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-37
+network 104.40.240.48 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-38
+network 104.41.13.120 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-39
+network 104.41.216.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-40
+network 104.42.72.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-41
+network 104.43.208.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-42
+network 104.43.240.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-43
+network 104.44.218.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-44
+network 104.44.254.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-45
+network 104.44.255.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-46
+network 104.45.0.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-47
+network 104.45.208.104 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-48
+network 104.46.112.8 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-49
+network 104.46.224.64 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-50
+network 104.209.144.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-51
+network 104.210.48.8 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-52
+network 104.210.83.160 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-53
+network 104.210.208.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-54
+network 104.211.16.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-55
+network 104.211.48.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-56
+network 104.211.88.16 /28
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-57
+network 104.211.216.32 /27
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-58
+network 104.215.96.24 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-59
+network 104.215.144.64 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-60
+network 104.215.184.16 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-61
+network 132.245.165.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-62
+network 134.170.67.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-63
+network 134.170.116.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-64
+network 134.170.165.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-65
+network 134.170.172.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-66
+network 157.55.45.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-67
+network 157.55.59.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-68
+network 157.55.130.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-69
+network 157.55.145.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-70
+network 157.55.155.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-71
+network 157.55.227.192 /26
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-72
+network 157.56.53.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-73
+network 157.56.55.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-74
+network 157.56.58.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-75
+network 157.56.151.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-76
+network 191.232.2.128 /25
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-77
+network 191.237.248.32 /29
+zone WAN
+exit
+address-object ipv4 MSFT-Identity-IPv4-78
+network 191.237.252.192 /28
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-1
+network 13.71.151.88 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-2
+network 13.76.138.63 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-3
+network 13.78.120.69 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-4
+network 13.78.120.70 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-5
+network 13.78.120.99 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-6
+network 13.78.120.159 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-7
+network 13.80.22.71 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-8
+network 13.80.125.22 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-9
+network 13.84.178.101 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-10
+network 13.84.218.185 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-11
+network 13.84.219.100 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-12
+network 13.84.222.249 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-13
+network 13.87.36.128 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-14
+network 13.88.17.54 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-15
+network 13.91.91.243 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-16
+network 13.92.181.66 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-17
+network 13.92.236.241 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-18
+network 13.93.164.45 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-19
+network 13.95.29.177 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-20
+network 13.95.30.46 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-21
+network 13.107.6.156 /31
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-22
+network 13.107.7.190 /31
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-23
+network 13.107.9.156 /31
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-24
+network 23.96.241.70 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-25
+network 23.96.251.50 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-26
+network 23.96.253.65 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-27
+network 23.97.78.94 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-28
+network 23.102.232.134 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-29
+network 40.69.185.117 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-30
+network 40.76.54.117 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-31
+network 40.81.156.153 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-32
+network 40.81.156.154 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-33
+network 40.81.156.155 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-34
+network 40.81.156.156 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-35
+network 40.83.120.174 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-36
+network 40.83.127.89 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-37
+network 40.83.185.155 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-38
+network 40.84.2.83 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-39
+network 40.84.4.93 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-40
+network 40.84.4.119 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-41
+network 40.84.145.72 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-42
+network 40.90.218.196 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-43
+network 40.90.218.197 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-44
+network 40.90.218.198 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-45
+network 40.90.218.203 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-46
+network 40.112.144.173 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-47
+network 40.112.145.113 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-48
+network 40.113.91.234 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-49
+network 40.117.229.133 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-50
+network 40.117.229.194 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-51
+network 40.124.8.53 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-52
+network 51.142.213.184 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-53
+network 52.163.93.38 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-54
+network 52.164.121.65 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-55
+network 52.164.124.124 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-56
+network 52.164.127.6 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-57
+network 52.168.128.89 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-58
+network 52.168.177.42 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-59
+network 52.174.56.180 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-60
+network 52.178.144.25 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-61
+network 52.178.146.67 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-62
+network 52.178.147.210 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-63
+network 52.183.75.62 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-64
+network 52.184.165.82 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-65
+network 52.187.78.144 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-66
+network 52.225.223.43 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-67
+network 52.233.242.192 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-68
+network 65.52.220.46 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-69
+network 65.55.239.168 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-70
+network 94.245.117.53 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-71
+network 104.40.178.127 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-72
+network 104.40.179.160 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-73
+network 104.40.211.46 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-74
+network 104.42.225.143 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-75
+network 104.42.230.91 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-76
+network 104.43.21.58 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-77
+network 104.214.107.57 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-78
+network 104.214.144.62 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-79
+network 104.214.146.199 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-80
+network 104.215.28.42 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-81
+network 157.55.145.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-82
+network 157.55.155.0 /25
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-83
+network 157.55.227.192 /26
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-84
+network 168.61.149.234 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-85
+network 168.62.104.83 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-86
+network 168.62.106.224 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-87
+network 168.63.92.133 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-88
+network 207.46.73.250 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-89
+network 207.46.140.244 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-90
+network 207.46.141.38 /32
+zone WAN
+exit
+address-object ipv4 MSFT-o365-IPv4-91
+network 207.46.216.54 /32
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-1
+network 23.103.132.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-2
+network 23.103.136.0 /21
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-3
+network 23.103.144.0 /20
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-4
+network 23.103.198.0 /23
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-5
+network 23.103.200.0 /22
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-6
+network 40.92.0.0 /14
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-7
+network 40.107.0.0 /17
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-8
+network 52.100.0.0 /14
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-9
+network 52.238.78.88 /32
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-10
+network 65.55.88.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-11
+network 65.55.169.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-12
+network 94.245.120.64 /26
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-13
+network 104.47.0.0 /17
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-14
+network 157.55.234.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-15
+network 157.56.110.0 /23
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-16
+network 157.56.112.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-17
+network 207.46.100.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-18
+network 207.46.163.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-19
+network 213.199.154.0 /24
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-20
+network 213.199.180.128 /26
+zone WAN
+exit
+address-object ipv4 MSFT-EOP-IPv4-21
+network 216.32.180.0 /23
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-1
+network 2603:1010:2::cb /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-2
+network 2603:1010:200::c7 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-3
+network 2603:1020:200::682f:a0fd /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-4
+network 2603:1020:201:9::c6 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-5
+network 2603:1020:600::a1 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-6
+network 2603:1020:700::a2 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-7
+network 2603:1020:800:2::6 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-8
+network 2603:1020:900::8 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-9
+network 2603:1030:7::749 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-10
+network 2603:1030:800:5::bfee:ad3c /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-11
+network 2603:1030:f00::17 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-12
+network 2603:1030:1000::21a /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-13
+network 2603:1040:200::4f3 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-14
+network 2603:1040:401::762 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-15
+network 2603:1040:601::60f /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-16
+network 2603:1040:a01::1e /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-17
+network 2603:1040:c01::28 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-18
+network 2603:1040:e00:1::2f /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-19
+network 2603:1040:f00::1f /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-20
+network 2603:1050:1::cd /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-21
+network 2620:1ec:90c::6 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-22
+network 2620:1ec:a92::171 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-23
+network 2a01:111:f100:2002::8975:2d79 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-24
+network 2a01:111:f100:2002::8975:2da8 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-25
+network 2a01:111:f100:7000::6fdd:6cd5 /128
+zone WAN
+exit
+address-object ipv6 MSFT-WAC-IPv6-26
+network 2a01:111:f100:a004::bfeb:88cf /128
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-1
+network 2603:1027:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-2
+network 2603:1029:100:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-3
+network 2603:1037:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-4
+network 2603:1039:100:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-5
+network 2603:1047:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-6
+network 2603:1049:100:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-7
+network 2603:1057:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-8
+network 2620:1ec:6:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-9
+network 2620:1ec:40:: /42
+zone WAN
+exit
+address-object ipv6 MSFT-Teams-IPv6-10
+network 2a01:111:202f:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-1
+network 2603:1006:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-2
+network 2603:1016:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-3
+network 2603:1020:800:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-4
+network 2603:1026:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-5
+network 2603:1026:200:: /39
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-6
+network 2603:1026:400:: /39
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-7
+network 2603:1026:600:: /44
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-8
+network 2603:1026:620:: /44
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-9
+network 2603:1026:800:: /44
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-10
+network 2603:1026:820:: /45
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-11
+network 2603:1036:: /39
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-12
+network 2603:1036:200:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-13
+network 2603:1036:400:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-14
+network 2603:1036:600:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-15
+network 2603:1036:800:: /38
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-16
+network 2603:1036:c00:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-17
+network 2603:1046:: /37
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-18
+network 2603:1046:900:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-19
+network 2603:1056:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-20
+network 2603:1056:400:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-21
+network 2603:1056:600:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-22
+network 2603:1096:: /38
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-23
+network 2603:1096:400:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-24
+network 2603:1096:600:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-25
+network 2603:1096:c00:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-26
+network 2603:1096:a00:: /39
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-27
+network 2603:10a6:200:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-28
+network 2603:10a6:400:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-29
+network 2603:10a6:600:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-30
+network 2603:10a6:800:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-31
+network 2603:10d6:200:: /40
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-32
+network 2620:1ec:4::152 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-33
+network 2620:1ec:4::153 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-34
+network 2620:1ec:8f0:: /46
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-35
+network 2620:1ec:900:: /46
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-36
+network 2620:1ec:a92::152 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-37
+network 2620:1ec:a92::153 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-38
+network 2620:1ec:c::10 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-39
+network 2620:1ec:c::11 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-40
+network 2620:1ec:d::10 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-41
+network 2620:1ec:d::11 /128
+zone WAN
+exit
+address-object ipv6 MSFT-EXO-IPv6-42
+network 2a01:111:f400:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-SPO-IPv6-1
+network 2603:1039:1001:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-SPO-IPv6-2
+network 2603:1039:e01:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-SPO-IPv6-3
+network 2620:1ec:8f8:: /46
+zone WAN
+exit
+address-object ipv6 MSFT-SPO-IPv6-4
+network 2620:1ec:908:: /46
+zone WAN
+exit
+address-object ipv6 MSFT-SPO-IPv6-5
+network 2620:1ec:a92::150 /128
+zone WAN
+exit
+address-object ipv6 MSFT-SPO-IPv6-6
+network 2a01:111:f402:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-1
+network 2603:1027:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-2
+network 2603:1029:100:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-3
+network 2603:1037:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-4
+network 2603:1039:100:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-5
+network 2603:1047:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-6
+network 2603:1049:100:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-7
+network 2603:1057:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-8
+network 2620:1ec:6:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-9
+network 2620:01ec:0042:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-10
+network 2620:1ec:40:: /42
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-11
+network 2a01:111:2047:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-12
+network 2a01:111:2047:1:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-13
+network 2a01:111:2048:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-14
+network 2a01:111:2048:1:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-15
+network 2a01:111:f406:3406:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-16
+network 2a01:111:f406:3405:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-17
+network 2a01:111:200f:11:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-18
+network 2a01:111:200f:10:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-19
+network 2a01:111:2007:3:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-20
+network 2a01:111:2007:4:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-21
+network 2a01:111:200f:6:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-22
+network 2a01:111:200f:7:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-23
+network 2a01:111:200f:8:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-24
+network 2a01:111:200f:9:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-25
+network 2a01:111:2012:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-26
+network 2a01:111:2012:3:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-27
+network 2a01:111:2012:4:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-28
+network 2a01:111:2012:5:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-29
+network 2a01:111:2012:6:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-30
+network 2a01:111:2012:7:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-31
+network 2a01:111:202a:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-32
+network 2a01:111:202a:3:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-33
+network 2a01:111:202b:3:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-34
+network 2a01:111:202b:4:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-35
+network 2a01:111:202b:9:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-36
+network 2a01:111:202b:a:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-37
+network 2a01:111:202f:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-38
+network 2a01:111:2034:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-39
+network 2a01:111:2034:3:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-40
+network 2a01:111:2035:6:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-41
+network 2a01:111:2035:7:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-42
+network 2a01:111:2036:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-43
+network 2a01:111:2036:3:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-44
+network 2a01:111:203e:1:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-45
+network 2a01:111:203e:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-46
+network 2a01:111:2040:1:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-47
+network 2a01:111:2040:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-48
+network 2a01:111:2046:4:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-49
+network 2a01:111:2046:5:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-50
+network 2a01:111:2a:7:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-51
+network 2a01:111:2a:8:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-52
+network 2a01:111:f402:5802:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-53
+network 2a01:111:f402:5803:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-54
+network 2a01:111:f402:5805:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-55
+network 2a01:111:f404:0c06:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-56
+network 2a01:111:f404:0c07:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-57
+network 2a01:111:f404:0c09:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-58
+network 2a01:111:f404:0c0a:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-59
+network 2a01:111:f404:3400:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-60
+network 2a01:111:f404:3401:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-61
+network 2a01:111:f404:8002:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-62
+network 2a01:111:f404:8003:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-63
+network 2a01:111:f404:9400:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-64
+network 2a01:111:f404:9401:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-65
+network 2a01:111:f404:a000:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-66
+network 2a01:111:f404:a001:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-67
+network 2a01:111:f404:a800:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-68
+network 2a01:111:f404:a801:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-69
+network 2a01:111:f404:c0b:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-70
+network 2a01:111:f404:c0c:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-71
+network 2a01:111:f406:2400:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-72
+network 2a01:111:f406:2401:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-73
+network 2a01:111:f406:402:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-LYO-IPv6-74
+network 2a01:111:f406:403:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-1
+network 2603:1020:201::4a0 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-2
+network 2603:1020:201::4a1 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-3
+network 2603:1020:201::4a2 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-4
+network 2603:1020:201::4a3 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-5
+network 2603:1020:201::4a4 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-6
+network 2603:1020:201::4a5 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-7
+network 2603:1020:201::4a6 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-8
+network 2603:1020:201::4a7 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-9
+network 2603:1020:201::4aa /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-10
+network 2603:1020:201::581 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-11
+network 2603:1020:201::583 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-12
+network 2603:1020:201::584 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-13
+network 2603:1020:201::586 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-14
+network 2603:1020:201::588 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-15
+network 2603:1020:201::589 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-16
+network 2603:1020:201::58a /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-17
+network 2603:1020:201::58b /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-18
+network 2603:1020:201::58c /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-19
+network 2603:1020:201:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-20
+network 2603:1020:201:3:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-21
+network 2603:1030:7::2c /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-22
+network 2603:1030:7::2d /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-23
+network 2603:1030:7::2f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-24
+network 2603:1030:7::30 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-25
+network 2603:1030:7::34 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-26
+network 2603:1030:7::3f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-27
+network 2603:1030:7::40 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-28
+network 2603:1030:7::41 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-29
+network 2a01:111:2005:6:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-30
+network 2a01:111:f100:1002::4134:d89f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-31
+network 2a01:111:f100:1002::4134:d944 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-32
+network 2a01:111:f100:1002::4134:d95f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-33
+network 2a01:111:f100:1002::4134:da55 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-34
+network 2a01:111:f100:1002::4134:da5c /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-35
+network 2a01:111:f100:1002::4134:da81 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-36
+network 2a01:111:f100:1002::4134:dab5 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-37
+network 2a01:111:f100:1002::4134:daee /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-38
+network 2a01:111:f100:1002::4134:db2a /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-39
+network 2a01:111:f100:1002::4134:db60 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-40
+network 2a01:111:f100:1002::4134:db89 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-41
+network 2a01:111:f100:1002::4134:dbe7 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-42
+network 2a01:111:f100:1002::4134:dc2d /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-43
+network 2a01:111:f100:1002::4134:dc2e /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-44
+network 2a01:111:f100:1002::4134:dc43 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-45
+network 2a01:111:f100:1002::4134:dc6e /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-46
+network 2a01:111:f100:1002::4134:dd7a /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-47
+network 2a01:111:f100:1002::4134:ddcb /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-48
+network 2a01:111:f100:2002::8975:2c3b /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-49
+network 2a01:111:f100:2002::8975:2c3f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-50
+network 2a01:111:f100:2002::8975:2c6d /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-51
+network 2a01:111:f100:2002::8975:2cdd /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-52
+network 2a01:111:f100:2002::8975:2cea /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-53
+network 2a01:111:f100:2002::8975:2ced /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-54
+network 2a01:111:f100:2002::8975:2d08 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-55
+network 2a01:111:f100:2002::8975:2d19 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-56
+network 2a01:111:f100:2002::8975:2d25 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-57
+network 2a01:111:f100:2002::8975:2d4d /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-58
+network 2a01:111:f100:2002::8975:2d6a /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-59
+network 2a01:111:f100:2002::8975:2d97 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-60
+network 2a01:111:f100:2002::8975:2daa /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-61
+network 2a01:111:f100:2002::8975:2dc7 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-62
+network 2a01:111:f100:3002::8987:30a0 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-63
+network 2a01:111:f100:3002::8987:3103 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-64
+network 2a01:111:f100:3002::8987:3278 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-65
+network 2a01:111:f100:3002::8987:328f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-66
+network 2a01:111:f100:3002::8987:3299 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-67
+network 2a01:111:f100:3002::8987:3344 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-68
+network 2a01:111:f100:3002::8987:3396 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-69
+network 2a01:111:f100:3002::8987:3398 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-70
+network 2a01:111:f100:3002::8987:33b3 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-71
+network 2a01:111:f100:3002::8987:33ec /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-72
+network 2a01:111:f100:3002::8987:34eb /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-73
+network 2a01:111:f100:3002::8987:34f8 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-74
+network 2a01:111:f100:3002::8987:353b /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-75
+network 2a01:111:f100:3002::8987:35b5 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-76
+network 2a01:111:f100:4001::4625:a3ee /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-77
+network 2a01:111:f100:4001::4625:a4b6 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-78
+network 2a01:111:f100:4001::4625:a4ba /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-79
+network 2a01:111:f100:4001::4625:a4c7 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-80
+network 2a01:111:f100:4001::4625:a4cf /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-81
+network 2a01:111:f100:4001::4625:a4ee /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-82
+network 2a01:111:f100:4001::4625:a56f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-83
+network 2a01:111:f100:4001::4625:a589 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-84
+network 2a01:111:f100:7000::6fdd:6a44 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-85
+network 2a01:111:f100:7000::6fdd:6b96 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-86
+network 2a01:111:f100:7000::6fdd:6bb6 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-87
+network 2a01:111:f100:7000::6fdd:6c82 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-88
+network 2a01:111:f100:7000::6fdd:6d1c /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-89
+network 2a01:111:f100:7000::6fdd:6d23 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-90
+network 2a01:111:f100:7000::6fdd:6d50 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-91
+network 2a01:111:f100:7000::6fdd:6d88 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-92
+network 2a01:111:f100:a004::bfeb:8a92 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-93
+network 2a01:111:f100:a004::bfeb:8ab0 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-94
+network 2a01:111:f100:a004::bfeb:8b12 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-95
+network 2a01:111:f100:a004::bfeb:8b15 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-96
+network 2a01:111:f100:a004::bfeb:8b3c /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-97
+network 2a01:111:f100:a004::bfeb:8b47 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-98
+network 2a01:111:f100:a004::bfeb:8b6c /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-99
+network 2a01:111:f100:a004::bfeb:8beb /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-100
+network 2a01:111:f100:a004::bfeb:8c55 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-101
+network 2a01:111:f100:a004::bfeb:8c6d /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-102
+network 2a01:111:f100:a004::bfeb:8c6f /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-103
+network 2a01:111:f100:a004::bfeb:8c88 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-104
+network 2a01:111:f100:a004::bfeb:8cc0 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-105
+network 2a01:111:f100:a004::bfeb:8cdc /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-106
+network 2a01:111:f100:a004::bfeb:8d83 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-107
+network 2a01:111:f100:a004::bfeb:8d96 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-108
+network 2a01:111:f100:a004::bfeb:8daa /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-109
+network 2a01:111:f102:8001::1761:4929 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-110
+network 2a01:111:f102:8001::1761:4948 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-111
+network 2a01:111:f102:8001::1761:4b83 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-112
+network 2a01:111:f102:8001::1761:4f0d /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-113
+network 2a01:111:f102:8001::1761:4f32 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-114
+network 2a01:111:f102:8001::1761:4f64 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-115
+network 2a01:111:f102:8001::1761:4f8d /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-116
+network 2a01:111:f102:8001::1761:4fc0 /128
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-117
+network 2a01:111:f400:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-118
+network 2001:df0:d9:200:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-119
+network 2603:1047:100:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-120
+network 2a01:111:2035:8:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-121
+network 2a01:111:200a:a:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-122
+network 2a01:111:f406:1:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-123
+network 2a01:111:f406:2:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-124
+network 2a01:111:f406:1004:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-125
+network 2a01:111:f406:1805:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-126
+network 2a01:111:f406:3404:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-127
+network 2a01:111:f406:8000:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-128
+network 2a01:111:f406:8801:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-129
+network 2a01:111:f406:a003:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-Identity-IPv6-130
+network 2a01:111:f406:c00:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-1
+network 2603:1020:0:7::4e1 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-2
+network 2603:1020:200::682f:a1d8 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-3
+network 2603:1020:201:a::2b1 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-4
+network 2603:1020:201::3c4 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-5
+network 2603:1020:201::5f2 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-6
+network 2603:1020:300::33 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-7
+network 2603:1020:400::26 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-8
+network 2603:1020:600::1d3 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-9
+network 2603:1020:700::1cb /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-10
+network 2603:1030:603::3c9 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-11
+network 2603:1030:603::6a /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-12
+network 2603:1030:603::72 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-13
+network 2603:1030:a02::118 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-14
+network 2603:1030:a02::367 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-15
+network 2603:1040:200::111 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-16
+network 2603:1040:200::325 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-17
+network 2603:1040:400::2f4 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-18
+network 2603:1040:400::5d /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-19
+network 2603:1040:400::5e /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-20
+network 2603:1040:400::7b /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-21
+network 2603:1040:401::57 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-22
+network 2603:1040:401::c /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-23
+network 2603:1040:601::1e7 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-24
+network 2603:1040:601::2f /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-25
+network 2603:1040:601::36c /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-26
+network 2603:1040:601::4e /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-27
+network 2801:80:1d0:1c00:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-28
+network 2a01:111:2003:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-29
+network 2a01:111:200a:a:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-30
+network 2a01:111:202c:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-31
+network 2a01:111:202e:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-32
+network 2a01:111:202e::190 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-33
+network 2a01:111:202e::191 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-34
+network 2a01:111:202e::156 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-35
+network 2a01:111:202d:: /48
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-36
+network 2a01:111:2035:8:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-37
+network 2a01:111:f100:1002::4134:c0cb /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-38
+network 2a01:111:f100:1002::4134:c440 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-39
+network 2a01:111:f100:1002::4134:d93c /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-40
+network 2a01:111:f100:1002::4134:d9ee /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-41
+network 2a01:111:f100:1003::4134:36d5 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-42
+network 2a01:111:f100:1004::4134:f0c8 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-43
+network 2a01:111:f100:2002::8975:2c33 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-44
+network 2a01:111:f100:2002::8975:2d11 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-45
+network 2a01:111:f100:2002::8975:2d43 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-46
+network 2a01:111:f100:2002::8975:2d98 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-47
+network 2a01:111:f100:2002::8975:2db9 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-48
+network 2a01:111:f100:2002::8975:2cbc /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-49
+network 2a01:111:f100:3002::8987:320c /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-50
+network 2a01:111:f100:3002::8987:342a /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-51
+network 2a01:111:f100:3002::8987:3552 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-52
+network 2a01:111:f100:3002::8987:358e /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-53
+network 2a01:111:f100:4001::4625:609b /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-54
+network 2a01:111:f100:4001::4625:61ea /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-55
+network 2a01:111:f100:4001::4625:a065 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-56
+network 2a01:111:f100:4001::4625:a1e3 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-57
+network 2a01:111:f100:4001::4625:a248 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-58
+network 2a01:111:f100:4001::4625:a4b4 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-59
+network 2a01:111:f100:4002::9d37:c021 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-60
+network 2a01:111:f100:4002::9d37:c08f /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-61
+network 2a01:111:f100:6000::4134:a2af /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-62
+network 2a01:111:f100:6000::4134:b0ba /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-63
+network 2a01:111:f100:6000::4134:b84b /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-64
+network 2a01:111:f100:7000::6fdd:50bb /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-65
+network 2a01:111:f100:7000::6fdd:682b /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-66
+network 2a01:111:f100:7000::6fdd:699d /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-67
+network 2a01:111:f100:7000::6fdd:6b20 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-68
+network 2a01:111:f100:7000::6fdd:6b76 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-69
+network 2a01:111:f100:7000::6fdd:6cac /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-70
+network 2a01:111:f100:7000::6fdd:6fc4 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-71
+network 2a01:111:f100:8000::4134:902e /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-72
+network 2a01:111:f100:8000::4134:941b /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-73
+network 2a01:111:f100:8001::d5c7:8077 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-74
+network 2a01:111:f100:9001::1761:91cb /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-75
+network 2a01:111:f100:a000::5ef5:581c /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-76
+network 2a01:111:f100:a000::5ef5:6c55 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-77
+network 2a01:111:f100:7000::6fdd:6095 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-78
+network 2a01:111:f100:a001::a83f:5c85 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-79
+network 2a01:111:f100:a004::bfeb:8aa2 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-80
+network 2a01:111:f100:a004::bfeb:8c89 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-81
+network 2a01:111:f100:a004::bfeb:8cb8 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-82
+network 2a01:111:f100:a004::bfeb:8deb /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-83
+network 2a01:111:f102:8001::1761:4237 /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-84
+network 2a01:111:f102:8001::1761:4daf /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-85
+network 2a01:111:f102:8001::1761:4f8a /128
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-86
+network 2a01:111:f406:1:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-87
+network 2a01:111:f406:1000:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-88
+network 2a01:111:f406:1004:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-89
+network 2a01:111:f406:1801:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-90
+network 2a01:111:f406:1805:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-91
+network 2a01:111:f406:3404:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-92
+network 2a01:111:f406:8000:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-93
+network 2a01:111:f406:8801:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-94
+network 2a01:111:f406:a003:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-o365-IPv6-95
+network 2a01:111:f406:c00:: /64
+zone WAN
+exit
+address-object ipv6 MSFT-EOP-IPv6-1
+network 2a01:111:f400:7c00:: /54
+zone WAN
+exit
+address-object ipv6 MSFT-EOP-IPv6-2
+network 2a01:111:f400:fc00:: /54
+zone WAN
+exit
+address-object ipv6 MSFT-EOP-IPv6-3
+network 2a01:111:f403:: /48
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-1
+domain *broadcast.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-2
+domain *excel.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-3
+domain *onenote.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-4
+domain *powerpoint.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-5
+domain *view.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-6
+domain *visio.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-7
+domain *word-edit.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-8
+domain *word-view.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-9
+domain *.cdn.office.net
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-10
+domain contentstorage.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-WAC-FQDN-11
+domain office.live.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-1
+domain sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-2
+domain www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-3
+domain eus-www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-4
+domain eus-000.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-5
+domain eus-001.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-6
+domain eus-002.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-7
+domain eus-003.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-8
+domain eus-004.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-9
+domain eus-005.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-10
+domain eus-006.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-11
+domain eus-007.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-12
+domain eus-008.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-13
+domain eus-009.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-14
+domain eus-00a.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-15
+domain eus-00b.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-16
+domain eus-00c.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-17
+domain eus-00d.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-18
+domain eus-00e.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-19
+domain wus-www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-20
+domain wus-000.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-21
+domain wus-001.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-22
+domain wus-002.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-23
+domain wus-003.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-24
+domain wus-004.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-25
+domain wus-005.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-26
+domain wus-006.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-27
+domain wus-007.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-28
+domain wus-008.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-29
+domain wus-009.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-30
+domain wus-00a.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-31
+domain wus-00b.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-32
+domain wus-00c.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-33
+domain wus-00d.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-34
+domain wus-00e.www.sway.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-35
+domain eus-www.sway-cdn.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-36
+domain wus-www.sway-cdn.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-37
+domain eus-www.sway-extensions.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-38
+domain wus-www.sway-extensions.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-39
+domain c.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-40
+domain c1.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-41
+domain prod.msocdn.com
+zone WAN
+exit
+address-object fqdn MSFT-Sway-FQDN-42
+domain www.google-analytics.com
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-1
+domain tasks.office.com
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-2
+domain cus-000.tasks.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-3
+domain ea-000.tasks.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-4
+domain eus-zzz.tasks.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-5
+domain neu-000.tasks.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-6
+domain sea-000.tasks.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-7
+domain weu-000.tasks.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-8
+domain wus-000.tasks.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-9
+domain www.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-10
+domain outlook.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-11
+domain ajax.aspnetcdn.com
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-12
+domain prod.msocdn.com
+zone WAN
+exit
+address-object fqdn MSFT-Planner-FQDN-13
+domain clientlog.portal.office.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-1
+domain activation.sls.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-2
+domain ajax.aspnetcdn.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-3
+domain ajax.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-4
+domain auth.gfx.ms
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-5
+domain c.bing.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-6
+domain c.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-7
+domain c1.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-8
+domain cdn.odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-9
+domain config.edge.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-10
+domain crl.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-11
+domain cs.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-12
+domain cus-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-13
+domain cus-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-14
+domain ea-000.ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-15
+domain ea-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-16
+domain Eus2-000.ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-17
+domain eus2-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-18
+domain eus-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-19
+domain excelbingmap.firstpartyapps.oaspapps.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-20
+domain excelcs.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-21
+domain go.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-22
+domain insertmedia.bing.office.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-23
+domain login.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-24
+domain login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-25
+domain login.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-26
+domain ncus-000.ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-27
+domain ncus-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-28
+domain ncus-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-29
+domain neu-000.ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-30
+domain mrodevicemgr.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-31
+domain neu-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-32
+domain neu-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-33
+domain Nexus.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-34
+domain nexusrules.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-35
+domain ocos-office365-s2s.msedge.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-36
+domain ocsa.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-37
+domain ocsredir.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-38
+domain ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-39
+domain office15client.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-40
+domain officecdn.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-41
+domain officecdn.microsoft.com.edgekey.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-42
+domain officecdn.microsoft.com.edgesuite.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-43
+domain officeclient.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-44
+domain officepreviewredir.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-45
+domain officeredir.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-46
+domain ols.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-47
+domain omextemplates.content.office.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-48
+domain peoplegraph.firstpartyapps.oaspapps.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-49
+domain pptcs.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-50
+domain r.office.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-51
+domain roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-52
+domain sas.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-53
+domain scus-000.ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-54
+domain scus-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-55
+domain scus-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-56
+domain sea-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-57
+domain sea-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-58
+domain secure.aadcdn.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-59
+domain site-cdn.onenote.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-60
+domain store.office.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-61
+domain templateservice.office.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-62
+domain tse1.mm.bing.net
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-63
+domain uci.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-64
+domain watson.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-65
+domain weu-000.ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-66
+domain weu-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-67
+domain weu-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-68
+domain wikipedia.firstpartyapps.oaspapps.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-69
+domain wordcs.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-70
+domain wus-000.ocws.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-71
+domain wus-odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-72
+domain wus-roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-73
+domain www.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-74
+domain www.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-ProPlus-FQDN-75
+domain www.onenote.com
+zone WAN
+exit
+address-object fqdn MSFT-Yammer-FQDN-1
+domain *.assets-yammer.com
+zone WAN
+exit
+address-object fqdn MSFT-Yammer-FQDN-2
+domain *.yammer.com
+zone WAN
+exit
+address-object fqdn MSFT-Yammer-FQDN-3
+domain *.yammerusercontent.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-1
+domain *.adl.windows.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-2
+domain *.asm.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-3
+domain *.broker.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-4
+domain *.cc.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-5
+domain *.config.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-6
+domain *.conv.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-7
+domain *.dc.trouter.io
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-8
+domain *.infra.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-9
+domain *.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-10
+domain *.msedge.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-11
+domain *.msg.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-12
+domain *.mstea.ms
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-13
+domain *.online.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-14
+domain *.pipe.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-15
+domain *.pipe.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-16
+domain *.resources.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-17
+domain *.secure.skypeassets.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-18
+domain *.sfbassets.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-19
+domain *.skypeforbusiness.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-20
+domain *.teams.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-21
+domain *.teams.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-22
+domain compass-ssl.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-23
+domain config.edge.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-24
+domain feedback.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-25
+domain latest-swx.cdn.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-26
+domain mlccdnprod.azureedge.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-27
+domain pipe.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-28
+domain prod.registrar.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-29
+domain prod.tpc.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-30
+domain s-0001.s-msedge.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-31
+domain s-0004.s-msedge.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-32
+domain scsinstrument-ss-us.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-33
+domain scsquery-ss-asia.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-34
+domain scsquery-ss-eu.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-35
+domain scsquery-ss-us.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-36
+domain Skypegraph.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-37
+domain skypemaprdsitus.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-38
+domain swx.cdn.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-39
+domain teams.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-40
+domain videoplayercdn.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-Teams-FQDN-41
+domain *.tenor.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-1
+domain directory.services.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-2
+domain odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-3
+domain docs.live.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-4
+domain roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-5
+domain sqm.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-6
+domain watson.telemetry.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-7
+domain login.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-8
+domain wer.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-9
+domain ms.tific.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-10
+domain p100-sandbox.itunes.apple.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-11
+domain signup.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-12
+domain auth.gfx.ms
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-13
+domain view.atdmt.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-14
+domain client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-15
+domain dc2.client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-16
+domain c.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-17
+domain go.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-18
+domain office.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-19
+domain officeimg.vo.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-20
+domain m.webtrends.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-21
+domain account.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-22
+domain c.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-23
+domain partnerservices.getmicrosoftkey.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-24
+domain client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-25
+domain cl2.apple.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-26
+domain sas.office.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-27
+domain foodanddrink.services.appex.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-28
+domain en-US.appex-rf.msn.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeiPad-FQDN-29
+domain weather.tile.appex.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-1
+domain *.acompli.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-2
+domain *.appex.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-3
+domain *.appex-rf.msn.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-4
+domain a.wunderlist.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-5
+domain account.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-6
+domain accounts.google.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-7
+domain acompli.helpshift.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-8
+domain acompli-android-logs.s3.amazonaws.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-9
+domain api.diagnostics.office.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-10
+domain api.dropboxapi.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-11
+domain api.login.yahoo.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-12
+domain api.office.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-13
+domain apis.live.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-14
+domain app.adjust.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-15
+domain app.box.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-16
+domain appexsin.stb.s-msn.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-17
+domain auth.gfx.ms
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-18
+domain auth.gfx.ms
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-19
+domain by.uservoice.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-20
+domain c.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-21
+domain c.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-22
+domain cl2.apple.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-23
+domain client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-24
+domain client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-25
+domain com.microsoft.office.outlook.dev
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-26
+domain d.docs.live.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-27
+domain data.flurry.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-28
+domain dc2.client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-29
+domain directory.services.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-30
+domain docs.live.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-31
+domain en-US.appex-rf.msn.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-32
+domain foodanddrink.services.appex.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-33
+domain go.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-34
+domain graph.facebook.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-35
+domain graph.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-36
+domain graph.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-37
+domain login.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-38
+domain login.windows-ppe.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-39
+domain m.facebook.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-40
+domain m.webtrends.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-41
+domain mail.google.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-42
+domain mam.manage.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-43
+domain mobile.pipe.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-44
+domain ms.tific.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-45
+domain o15.officeredir.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-46
+domain odc.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-47
+domain odcsm.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-48
+domain office.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-49
+domain office15client.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-50
+domain officeimg.vo.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-51
+domain outlook.office.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-52
+domain outlook.uservoice.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-53
+domain *.itunes.apple.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-54
+domain partnerservices.getmicrosoftkey.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-55
+domain play.google.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-56
+domain rink.hockeyapp.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-57
+domain roaming.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-58
+domain s3-us-west-2.amazonaws.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-59
+domain sas.office.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-60
+domain sdfpilot.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-61
+domain sdk.hockeyapp.net
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-62
+domain secure.aadcdn.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-63
+domain signup.live.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-64
+domain social.yahooapis.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-65
+domain sqm.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-66
+domain view.atdmt.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-67
+domain vortex.data.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-68
+domain watson.telemetry.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-69
+domain weather.tile.appex.bing.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-70
+domain wer.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-71
+domain www.acompli.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-72
+domain www.dropbox.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-73
+domain www.evernote.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-74
+domain www.googleapis.com
+zone WAN
+exit
+address-object fqdn MSFT-OfficeMobile-FQDN-75
+domain www.wunderlist.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-1
+domain *cdn.onenote.net
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-2
+domain *.onenote.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-3
+domain *.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-4
+domain *.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-5
+domain *.office.net
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-6
+domain apis.live.net
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-7
+domain www.onedrive.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-8
+domain www.onenote.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-9
+domain Cdn.optimizely.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-10
+domain Ajax.aspnetcdn.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-11
+domain site-cdn.onenote.net
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-12
+domain s.ytimg.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-13
+domain www.youtube.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-14
+domain ad.atdmt.com
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-15
+domain Cdn.onenote.net
+zone WAN
+exit
+address-object fqdn MSFT-OneNote-FQDN-16
+domain officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-1
+domain *.mail.protection.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-2
+domain *.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-3
+domain *.outlook.office.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-4
+domain *.protection.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-5
+domain *.store.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-6
+domain *.um.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-7
+domain asl.configure.office.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-8
+domain autodiscover-*.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-9
+domain domains.live.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-10
+domain mshrcstorageprod.blob.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-11
+domain outlook.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-12
+domain r1.res.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-13
+domain r3.res.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-14
+domain r4.res.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-15
+domain smtp.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-16
+domain tds.configure.office.com
+zone WAN
+exit
+address-object fqdn MSFT-EXO-FQDN-17
+domain xsi.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-1
+domain *.log.optimizely.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-2
+domain *.sharepoint.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-3
+domain *-files.sharepoint.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-4
+domain *-my.sharepoint.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-5
+domain *-myfiles.sharepoint.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-6
+domain *.sharepointonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-7
+domain *.svc.ms
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-8
+domain *.search.production.us.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-9
+domain *.search.production.emea.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-10
+domain *.search.production.apac.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-11
+domain accounts.accesscontrol.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-12
+domain admin.onedrive.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-13
+domain cdn.sharepointonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-14
+domain click.email.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-15
+domain g.live.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-16
+domain login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-17
+domain Mobile.pipe.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-18
+domain nexus.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-19
+domain officeclient.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-20
+domain Oneclient.sfx.ms
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-21
+domain privatecdn.sharepointonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-22
+domain prod.msocdn.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-23
+domain provisioningapi.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-24
+domain publiccdn.sharepointonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-25
+domain skydrive.wns.windows.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-26
+domain spoprod-a.akamaihd.net
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-27
+domain static.sharepointonline.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-28
+domain ssw.live.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-29
+domain storage.live.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-30
+domain storage.live.com
+zone WAN
+exit
+address-object fqdn MSFT-SPO-FQDN-31
+domain watson.telemetry.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-1
+domain *.azureedge.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-2
+domain *.media.azure.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-3
+domain amsglob0cdnstream12.azureedge.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-4
+domain ajax.aspnetcdn.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-5
+domain amp.azure.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-6
+domain assets.onestore.ms
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-7
+domain az416426.vo.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-8
+domain *.keydelivery.mediaservices.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-9
+domain *.streaming.mediaservices.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-10
+domain r3.res.outlook.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-11
+domain s0.assets-yammer.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-12
+domain spoprod-a.akamaihd.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-13
+domain web.microsoftstream.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-14
+domain api.microsoftstream.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-15
+domain *.api.microsoftstream.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-16
+domain *.notification.api.microsoftstream.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-17
+domain amsglob0cdnstream11.azureedge.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-18
+domain nps.onyx.azure.net
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-19
+domain vortex.data.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-20
+domain web.localytics.com
+zone WAN
+exit
+address-object fqdn MSFT-Office365Video-FQDN-21
+domain webanalytics.localytics.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-1
+domain *.adl.windows.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-2
+domain *.api.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-3
+domain *.broadcast.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-4
+domain *.config.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-5
+domain *.cqd.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-6
+domain *.infra.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-7
+domain *.keydelivery.mediaservices.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-8
+domain *.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-9
+domain *.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-10
+domain *.online.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-11
+domain *.pipe.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-12
+domain *.resources.lync.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-13
+domain *.sfbassets.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-14
+domain *.skypeforbusiness.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-15
+domain *.streaming.mediaservices.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-16
+domain *.urlp.sfbassets.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-17
+domain *.users.storage.live.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-18
+domain ajax.aspnetcdn.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-19
+domain aka.ms
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-20
+domain amp.azure.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-21
+domain broadcast.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-22
+domain browser.pipe.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-23
+domain config.edge.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-24
+domain skypegraph.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-25
+domain mlccdnprod.azureedge.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-26
+domain pipe.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-27
+domain quicktips.skypeforbusiness.com
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-28
+domain s-0001.s-msedge.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-29
+domain s-0004.s-msedge.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-30
+domain skypemaprdsitus.trafficmanager.net
+zone WAN
+exit
+address-object fqdn MSFT-LYO-FQDN-31
+domain swx.cdn.skype.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-1
+domain *.adhybridhealth.azure.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-2
+domain *.blob.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-3
+domain *.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-4
+domain *.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-5
+domain *.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-6
+domain *.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-7
+domain *.microsoftonline-p.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-8
+domain *.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-9
+domain *.phonefactor.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-10
+domain *.portal.cloudappsecurity.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-11
+domain *.queue.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-12
+domain *.servicebus.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-13
+domain *.table.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-14
+domain *.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-15
+domain accounts.accesscontrol.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-16
+domain adminwebservice.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-17
+domain api.login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-18
+domain api.passwordreset.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-19
+domain autologon.microsoftazuread-sso.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-20
+domain becws.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-21
+domain ccs.login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-22
+domain ccs-sdf.login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-23
+domain clientconfig.microsoftonline-p.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-24
+domain companymanager.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-25
+domain device.login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-26
+domain equivio.office.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-27
+domain equivioprod*.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-28
+domain graph.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-29
+domain hip.microsoftonline-p.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-30
+domain hipservice.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-31
+domain login.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-32
+domain login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-33
+domain logincert.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-34
+domain loginex.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-35
+domain login-us.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-36
+domain login.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-37
+domain login.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-38
+domain management.azure.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-39
+domain mscrl.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-40
+domain nexus.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-41
+domain office365servicehealthcommunications.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-42
+domain office365zoom.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-43
+domain passwordreset.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-44
+domain policykeyservice.dc.ad.msft.net
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-45
+domain provisioningapi.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-46
+domain secure.aadcdn.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-47
+domain stamp2.login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-Identity-FQDN-48
+domain zoom-cs-prod*.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-1
+domain *.entrust.net
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-2
+domain *.geotrust.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-3
+domain *.omniroot.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-4
+domain *.public-trust.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-5
+domain *.symcb.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-6
+domain *.symcd.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-7
+domain *.verisign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-8
+domain *.verisign.net
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-9
+domain aia.entrust.net
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-10
+domain apps.identrust.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-11
+domain cacert.a.omniroot.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-12
+domain cacert.omniroot.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-13
+domain cacerts.digicert.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-14
+domain cdp1.public-trust.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-15
+domain cert.int-x3.letsencrypt.org
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-16
+domain crl.entrust.net
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-17
+domain crl.globalsign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-18
+domain crl.globalsign.net
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-19
+domain crl.identrust.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-20
+domain crl.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-21
+domain crl3.digicert.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-22
+domain crl4.digicert.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-23
+domain EVIntl-aia.verisign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-24
+domain EVIntl-crl.verisign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-25
+domain EVIntl-ocsp.verisign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-26
+domain evsecure-aia.verisign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-27
+domain EVSecure-crl.verisign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-28
+domain EVSecure-ocsp.verisign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-29
+domain isrg.trustid.ocsp.identrust.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-30
+domain mscrl.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-31
+domain ocsp.digicert.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-32
+domain ocsp.entrust.net
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-33
+domain ocsp.globalsign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-34
+domain ocsp.int-x3.letsencrypt.org
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-35
+domain ocsp.msocsp.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-36
+domain ocsp.omniroot.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-37
+domain ocsp2.globalsign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-38
+domain ocspx.digicert.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-39
+domain s1.symcb.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-40
+domain s2.symcb.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-41
+domain sa.symcb.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-42
+domain sd.symcb.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-43
+domain secure.globalsign.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-44
+domain sr.symcb.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-45
+domain sr.symcd.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-46
+domain su.symcb.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-47
+domain su.symcd.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-48
+domain vassg142.crl.omniroot.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-49
+domain vassg142.ocsp.omniroot.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-50
+domain www.digicert.com
+zone WAN
+exit
+address-object fqdn MSFT-CRLs-FQDN-51
+domain www.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-1
+domain *.adhybridhealth.azure.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-2
+domain *.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-3
+domain *.azurerms.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-4
+domain *.blob.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-5
+domain *.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-6
+domain *.helpshift.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-7
+domain *.hockeyapp.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-8
+domain *.localytics.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-9
+domain *.manage.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-10
+domain *.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-11
+domain *.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-12
+domain *.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-13
+domain *.microsoftonline-p.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-14
+domain *.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-15
+domain *.msocdn.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-16
+domain *.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-17
+domain *.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-18
+domain *.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-19
+domain *.onmicrosoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-20
+domain *.phonefactor.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-21
+domain *.portal.cloudappsecurity.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-22
+domain *.protection.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-23
+domain *.queue.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-24
+domain *.servicebus.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-25
+domain *.sharepointonline.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-26
+domain *.staffhub.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-27
+domain *.table.core.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-28
+domain *.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-29
+domain account.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-30
+domain admin.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-31
+domain adminwebservice.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-32
+domain agent.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-33
+domain amp.azure.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-34
+domain analytics.localytics.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-35
+domain api.localytics.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-36
+domain api.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-37
+domain apc.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-38
+domain appsforoffice.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-39
+domain assets.onestore.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-40
+domain aus.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-41
+domain auth.gfx.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-42
+domain az826701.vo.msecnd.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-43
+domain browser.pipe.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-44
+domain c.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-45
+domain c1.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-46
+domain can.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-47
+domain client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-48
+domain clientconfig.microsoftonline-p.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-49
+domain clientlog.portal.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-50
+domain connect.facebook.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-51
+domain contentstorage.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-52
+domain dc.applicationinsights.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-53
+domain dc.services.visualstudio.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-54
+domain delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-55
+domain dgps.support.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-56
+domain docs.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-57
+domain ea-000.forms.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-58
+domain ecn.dev.virtualearth.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-59
+domain enterpriseregistration.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-60
+domain eur.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-61
+domain eus2-000.forms.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-62
+domain firstpartyapps.oaspapps.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-63
+domain forms.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-64
+domain forms.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-65
+domain gbr.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-66
+domain graph.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-67
+domain groupsapi2-prod.outlookgroups.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-68
+domain groupsapi3-prod.outlookgroups.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-69
+domain groupsapi4-prod.outlookgroups.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-70
+domain groupsapi-prod.outlookgroups.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-71
+domain hip.microsoftonline-p.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-72
+domain home.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-73
+domain ind.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-74
+domain jpn.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-75
+domain kor.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-76
+domain lam.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-77
+domain liverdcxstorage.blob.core.windowsazure.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-78
+domain login.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-79
+domain login.windows.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-80
+domain management.azure.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-81
+domain msdn.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-82
+domain mem.gfx.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-83
+domain mobile.pipe.aria.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-84
+domain mscrl.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-85
+domain nam.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-86
+domain neu-000.forms.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-87
+domain nexus.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-88
+domain nexusrules.officeapps.live.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-89
+domain o365diagnosticsbasic-eus.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-90
+domain o365diagnosticworker-eus.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-91
+domain office365servicehealthcommunications.cloudapp.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-92
+domain outlook.uservoice.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-93
+domain platform.linkedin.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-94
+domain policykeyservice.dc.ad.msft.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-95
+domain portal.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-96
+domain portal.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-97
+domain prod.firstpartyapps.oaspapps.com.akadns.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-98
+domain prod.msocdn.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-99
+domain products.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-100
+domain protection.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-101
+domain provisioningapi.microsoftonline.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-102
+domain r1.res.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-103
+domain r4.res.office365.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-104
+domain res.delve.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-105
+domain rink.hockeyapp.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-106
+domain sdk.hockeyapp.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-107
+domain secure.aadcdn.microsoftonline-p.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-108
+domain securescore.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-109
+domain shellprod.msocdn.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-110
+domain signup.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-111
+domain staffhub.ms
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-112
+domain staffhub.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-113
+domain staffhub.uservoice.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-114
+domain staffhubweb.azureedge.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-115
+domain suite.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-116
+domain support.content.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-117
+domain support.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-118
+domain support.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-119
+domain technet.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-120
+domain telemetry.remoteapp.windowsazure.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-121
+domain telemetryservice.firstpartyapps.oaspapps.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-122
+domain templates.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-123
+domain testconnectivity.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-124
+domain video.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-125
+domain videocontent.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-126
+domain videoplayercdn.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-127
+domain vortex.data.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-128
+domain watson.telemetry.microsoft.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-129
+domain webanalytics.localytics.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-130
+domain web.localytics.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-131
+domain webshell.suite.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-132
+domain weu-000.forms.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-133
+domain wu.client.hip.live.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-134
+domain wus-000.forms.osi.office.net
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-135
+domain wus-firstpartyapps.oaspapps.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-136
+domain www.office.com
+zone WAN
+exit
+address-object fqdn MSFT-o365-FQDN-137
+domain www.remoteapp.windowsazure.com
+zone WAN
+exit
+end
