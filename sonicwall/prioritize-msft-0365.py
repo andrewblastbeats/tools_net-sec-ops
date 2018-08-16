@@ -1,21 +1,32 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
+import sonicwall_module
+
 
 
 def sortProductAddressTypes(child, productName, productAddrTypeList, prodAddrTypeDict):
     i = 1
     addrType = child.attrib['type']
-    for baby in child:
-        if baby.text.strip('/')[1] == 32:
-            productAddrTypeList.append([productName, str(i), addrType, baby.text.replace('/', ' 255.255.255.255')])
-            prodAddrTypeDict[productName].append([productName, str(i), addrType, baby.text.replace('/', ' /')])
-        else:
+    if addrType == 'IPv4':
+        for baby in child:
+            if baby.text[-3:] == '/32':
+                productAddrTypeList.append([productName, str(i), 'host', baby.text.replace('/32', '')])
+                prodAddrTypeDict[productName].append([productName, str(i), 'host', baby.text.replace('/32', '')])
+            else:
+                productAddrTypeList.append([productName, str(i), addrType, baby.text.replace('/', ' /')])
+                prodAddrTypeDict[productName].append([productName, str(i), addrType, baby.text.replace('/', ' /')])
+            i += 1
+    elif addrType == 'IPv6':
+        for baby in child:
             productAddrTypeList.append([productName, str(i), addrType, baby.text.replace('/', ' /')])
             prodAddrTypeDict[productName].append([productName, str(i), addrType, baby.text.replace('/', ' /')])
-        i += 1
-
-
+            i += 1
+    else:
+        for baby in child:
+            productAddrTypeList.append([productName, str(i), addrType, baby.text])
+            prodAddrTypeDict[productName].append([productName, str(i), addrType, baby.text])
+            i += 1
 
 def buildProductLists(parent, prodNameDict, prodVarNameList, prodsLinkedList):
     for child in parent:
@@ -95,11 +106,6 @@ def main():
             if baby.attrib['type'] == 'URL':
                 sortProductAddressTypes(baby, child.attrib['name'], product_url, product_dict_ipv4)
     # for prods in productNameDict['name']
-    print(product_ipv4[50])
-    print(product_ipv6[50])
-    print(product_url[50])
-    print(productNameDict)
-    print(str(product_url[50][1]))
     with open('sonicwall_addressObj.txt', 'w') as objOut_file, open('sonicwall_addressGroup.txt', 'w') as grpOut_file:
         snwlCreateMSFTo365IPv4AddressObject(productVarNameList, product_ipv4, objOut_file, grpOut_file)
         snwlCreateMSFTo365IPv6AddressObject(productVarNameList, product_ipv6, objOut_file, grpOut_file)

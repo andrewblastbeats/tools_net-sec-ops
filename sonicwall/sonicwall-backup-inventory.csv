@@ -1,0 +1,2 @@
+﻿sonicwall_name;wan_ip;lan_ip;username;password;backup_ip;backup_protocol;backup_username;backup_password
+US-BAL-NSA6600;216.67.65.54;100.13.14.15;admin;adminpass;100.14.15.16;ftp;bupuser;buppassword

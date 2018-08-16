@@ -1,9 +1,9 @@
 address-object ipv4 MSFT-WAC-IPv4-1
-network 13.107.6.171 /32
+network 13.107.6.171 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-WAC-IPv4-2
-network 13.107.140.6 /32
+network 13.107.140.6 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-WAC-IPv4-3
@@ -11,39 +11,39 @@ network 52.108.0.0 /14
 zone WAN
 exit
 address-object ipv4 MSFT-WAC-IPv4-4
-network 52.238.106.116 /32
+network 52.238.106.116 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-WAC-IPv4-5
-network 52.247.150.191 /32
+network 52.247.150.191 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Planner-IPv4-1
-network 13.107.6.160 /32
+network 13.107.6.160 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Planner-IPv4-2
-network 13.107.9.160 /32
+network 13.107.9.160 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-ProPlus-IPv4-1
-network 13.107.12.51 /32
+network 13.107.12.51 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-ProPlus-IPv4-2
-network 104.40.234.17 /32
+network 104.40.234.17 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-ProPlus-IPv4-3
-network 104.210.220.25 /32
+network 104.210.220.25 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-ProPlus-IPv4-4
-network 191.236.108.93 /32
+network 191.236.108.93 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-ProPlus-IPv4-5
-network 191.236.157.212 /32
+network 191.236.157.212 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Yammer-IPv4-1
@@ -55,7 +55,7 @@ network 13.107.9.158 /31
 zone WAN
 exit
 address-object ipv4 MSFT-Yammer-IPv4-3
-network 40.78.62.210 /32
+network 40.78.62.210 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Yammer-IPv4-4
@@ -63,27 +63,27 @@ network 134.170.148.0 /22
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-1
-network 13.70.151.216 /32
+network 13.70.151.216 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-2
-network 13.71.127.197 /32
+network 13.71.127.197 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-3
-network 13.75.126.169 /32
+network 13.75.126.169 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-4
-network 13.72.245.115 /32
+network 13.72.245.115 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-5
-network 13.73.1.120 /32
+network 13.73.1.120 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-6
-network 13.89.240.113 /32
+network 13.89.240.113 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-7
@@ -95,19 +95,19 @@ network 13.107.64.0 /18
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-9
-network 51.140.143.149 /32
+network 51.140.143.149 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-10
-network 51.140.155.234 /32
+network 51.140.155.234 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-11
-network 51.140.203.190 /32
+network 51.140.203.190 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-12
-network 51.141.51.76 /32
+network 51.141.51.76 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-13
@@ -115,63 +115,63 @@ network 52.112.0.0 /14
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-14
-network 52.163.126.215 /32
+network 52.163.126.215 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-15
-network 52.170.21.67 /32
+network 52.170.21.67 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-16
-network 52.172.185.18 /32
+network 52.172.185.18 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-17
-network 52.178.94.2 /32
+network 52.178.94.2 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-18
-network 52.178.161.139 /32
+network 52.178.161.139 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-19
-network 52.228.25.96 /32
+network 52.228.25.96 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-20
-network 52.231.36.175 /32
+network 52.231.36.175 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-21
-network 52.231.207.185 /32
+network 52.231.207.185 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-22
-network 52.238.119.141 /32
+network 52.238.119.141 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-23
-network 52.242.23.189 /32
+network 52.242.23.189 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-24
-network 52.244.160.207 /32
+network 52.244.160.207 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-25
-network 104.46.62.41 /32
+network 104.46.62.41 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-26
-network 104.215.11.144 /32
+network 104.215.11.144 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-27
-network 104.215.62.195 /32
+network 104.215.62.195 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Teams-IPv4-28
-network 138.91.237.237 /32
+network 138.91.237.237 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-EXO-IPv4-1
@@ -219,7 +219,7 @@ network 111.221.112.0 /21
 zone WAN
 exit
 address-object ipv4 MSFT-EXO-IPv4-12
-network 131.253.33.215 /32
+network 131.253.33.215 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-EXO-IPv4-13
@@ -247,7 +247,7 @@ network 191.232.96.0 /19
 zone WAN
 exit
 address-object ipv4 MSFT-EXO-IPv4-19
-network 191.234.6.152 /32
+network 191.234.6.152 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-EXO-IPv4-20
@@ -255,7 +255,7 @@ network 191.234.140.0 /22
 zone WAN
 exit
 address-object ipv4 MSFT-EXO-IPv4-21
-network 204.79.197.215 /32
+network 204.79.197.215 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-EXO-IPv4-22
@@ -267,7 +267,7 @@ network 13.107.6.150 /31
 zone WAN
 exit
 address-object ipv4 MSFT-SPO-IPv4-2
-network 13.107.6.168 /32
+network 13.107.6.168 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-SPO-IPv4-3
@@ -275,7 +275,7 @@ network 13.107.9.150 /31
 zone WAN
 exit
 address-object ipv4 MSFT-SPO-IPv4-4
-network 13.107.9.168 /32
+network 13.107.9.168 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-SPO-IPv4-5
@@ -323,27 +323,27 @@ network 191.235.0.0 /20
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-1
-network 13.70.151.216 /32
+network 13.70.151.216 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-2
-network 13.71.127.197 /32
+network 13.71.127.197 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-3
-network 13.75.126.169 /32
+network 13.75.126.169 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-4
-network 13.72.245.115 /32
+network 13.72.245.115 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-5
-network 13.73.1.120 /32
+network 13.73.1.120 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-6
-network 13.89.240.113 /32
+network 13.89.240.113 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-7
@@ -355,19 +355,19 @@ network 13.107.64.0 /18
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-9
-network 51.140.143.149 /32
+network 51.140.143.149 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-10
-network 51.140.155.234 /32
+network 51.140.155.234 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-11
-network 51.140.203.190 /32
+network 51.140.203.190 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-12
-network 51.141.51.76 /32
+network 51.141.51.76 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-13
@@ -375,59 +375,59 @@ network 52.112.0.0 /14
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-14
-network 52.163.126.215 /32
+network 52.163.126.215 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-15
-network 52.170.21.67 /32
+network 52.170.21.67 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-16
-network 52.172.185.18 /32
+network 52.172.185.18 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-17
-network 52.178.94.2 /32
+network 52.178.94.2 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-18
-network 52.178.161.139 /32
+network 52.178.161.139 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-19
-network 52.228.25.96 /32
+network 52.228.25.96 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-20
-network 52.231.36.175 /32
+network 52.231.36.175 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-21
-network 52.231.207.185 /32
+network 52.231.207.185 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-22
-network 52.238.119.141 /32
+network 52.238.119.141 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-23
-network 52.242.23.189 /32
+network 52.242.23.189 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-24
-network 52.244.160.207 /32
+network 52.244.160.207 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-25
-network 104.215.11.144 /32
+network 104.215.11.144 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-26
-network 104.215.62.195 /32
+network 104.215.62.195 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-LYO-IPv4-27
-network 138.91.237.237 /32
+network 138.91.237.237 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-Identity-IPv4-1
@@ -743,83 +743,83 @@ network 191.237.252.192 /28
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-1
-network 13.71.151.88 /32
+network 13.71.151.88 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-2
-network 13.76.138.63 /32
+network 13.76.138.63 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-3
-network 13.78.120.69 /32
+network 13.78.120.69 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-4
-network 13.78.120.70 /32
+network 13.78.120.70 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-5
-network 13.78.120.99 /32
+network 13.78.120.99 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-6
-network 13.78.120.159 /32
+network 13.78.120.159 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-7
-network 13.80.22.71 /32
+network 13.80.22.71 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-8
-network 13.80.125.22 /32
+network 13.80.125.22 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-9
-network 13.84.178.101 /32
+network 13.84.178.101 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-10
-network 13.84.218.185 /32
+network 13.84.218.185 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-11
-network 13.84.219.100 /32
+network 13.84.219.100 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-12
-network 13.84.222.249 /32
+network 13.84.222.249 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-13
-network 13.87.36.128 /32
+network 13.87.36.128 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-14
-network 13.88.17.54 /32
+network 13.88.17.54 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-15
-network 13.91.91.243 /32
+network 13.91.91.243 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-16
-network 13.92.181.66 /32
+network 13.92.181.66 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-17
-network 13.92.236.241 /32
+network 13.92.236.241 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-18
-network 13.93.164.45 /32
+network 13.93.164.45 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-19
-network 13.95.29.177 /32
+network 13.95.29.177 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-20
-network 13.95.30.46 /32
+network 13.95.30.46 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-21
@@ -835,231 +835,231 @@ network 13.107.9.156 /31
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-24
-network 23.96.241.70 /32
+network 23.96.241.70 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-25
-network 23.96.251.50 /32
+network 23.96.251.50 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-26
-network 23.96.253.65 /32
+network 23.96.253.65 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-27
-network 23.97.78.94 /32
+network 23.97.78.94 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-28
-network 23.102.232.134 /32
+network 23.102.232.134 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-29
-network 40.69.185.117 /32
+network 40.69.185.117 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-30
-network 40.76.54.117 /32
+network 40.76.54.117 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-31
-network 40.81.156.153 /32
+network 40.81.156.153 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-32
-network 40.81.156.154 /32
+network 40.81.156.154 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-33
-network 40.81.156.155 /32
+network 40.81.156.155 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-34
-network 40.81.156.156 /32
+network 40.81.156.156 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-35
-network 40.83.120.174 /32
+network 40.83.120.174 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-36
-network 40.83.127.89 /32
+network 40.83.127.89 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-37
-network 40.83.185.155 /32
+network 40.83.185.155 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-38
-network 40.84.2.83 /32
+network 40.84.2.83 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-39
-network 40.84.4.93 /32
+network 40.84.4.93 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-40
-network 40.84.4.119 /32
+network 40.84.4.119 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-41
-network 40.84.145.72 /32
+network 40.84.145.72 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-42
-network 40.90.218.196 /32
+network 40.90.218.196 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-43
-network 40.90.218.197 /32
+network 40.90.218.197 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-44
-network 40.90.218.198 /32
+network 40.90.218.198 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-45
-network 40.90.218.203 /32
+network 40.90.218.203 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-46
-network 40.112.144.173 /32
+network 40.112.144.173 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-47
-network 40.112.145.113 /32
+network 40.112.145.113 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-48
-network 40.113.91.234 /32
+network 40.113.91.234 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-49
-network 40.117.229.133 /32
+network 40.117.229.133 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-50
-network 40.117.229.194 /32
+network 40.117.229.194 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-51
-network 40.124.8.53 /32
+network 40.124.8.53 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-52
-network 51.142.213.184 /32
+network 51.142.213.184 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-53
-network 52.163.93.38 /32
+network 52.163.93.38 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-54
-network 52.164.121.65 /32
+network 52.164.121.65 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-55
-network 52.164.124.124 /32
+network 52.164.124.124 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-56
-network 52.164.127.6 /32
+network 52.164.127.6 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-57
-network 52.168.128.89 /32
+network 52.168.128.89 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-58
-network 52.168.177.42 /32
+network 52.168.177.42 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-59
-network 52.174.56.180 /32
+network 52.174.56.180 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-60
-network 52.178.144.25 /32
+network 52.178.144.25 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-61
-network 52.178.146.67 /32
+network 52.178.146.67 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-62
-network 52.178.147.210 /32
+network 52.178.147.210 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-63
-network 52.183.75.62 /32
+network 52.183.75.62 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-64
-network 52.184.165.82 /32
+network 52.184.165.82 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-65
-network 52.187.78.144 /32
+network 52.187.78.144 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-66
-network 52.225.223.43 /32
+network 52.225.223.43 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-67
-network 52.233.242.192 /32
+network 52.233.242.192 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-68
-network 65.52.220.46 /32
+network 65.52.220.46 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-69
-network 65.55.239.168 /32
+network 65.55.239.168 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-70
-network 94.245.117.53 /32
+network 94.245.117.53 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-71
-network 104.40.178.127 /32
+network 104.40.178.127 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-72
-network 104.40.179.160 /32
+network 104.40.179.160 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-73
-network 104.40.211.46 /32
+network 104.40.211.46 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-74
-network 104.42.225.143 /32
+network 104.42.225.143 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-75
-network 104.42.230.91 /32
+network 104.42.230.91 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-76
-network 104.43.21.58 /32
+network 104.43.21.58 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-77
-network 104.214.107.57 /32
+network 104.214.107.57 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-78
-network 104.214.144.62 /32
+network 104.214.144.62 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-79
-network 104.214.146.199 /32
+network 104.214.146.199 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-80
-network 104.215.28.42 /32
+network 104.215.28.42 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-81
@@ -1075,35 +1075,35 @@ network 157.55.227.192 /26
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-84
-network 168.61.149.234 /32
+network 168.61.149.234 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-85
-network 168.62.104.83 /32
+network 168.62.104.83 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-86
-network 168.62.106.224 /32
+network 168.62.106.224 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-87
-network 168.63.92.133 /32
+network 168.63.92.133 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-88
-network 207.46.73.250 /32
+network 207.46.73.250 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-89
-network 207.46.140.244 /32
+network 207.46.140.244 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-90
-network 207.46.141.38 /32
+network 207.46.141.38 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-o365-IPv4-91
-network 207.46.216.54 /32
+network 207.46.216.54 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-EOP-IPv4-1
@@ -1139,7 +1139,7 @@ network 52.100.0.0 /14
 zone WAN
 exit
 address-object ipv4 MSFT-EOP-IPv4-9
-network 52.238.78.88 /32
+network 52.238.78.88 255.255.255.255
 zone WAN
 exit
 address-object ipv4 MSFT-EOP-IPv4-10
@@ -5298,4 +5298,3 @@ address-object fqdn MSFT-o365-FQDN-137
 domain www.remoteapp.windowsazure.com
 zone WAN
 exit
-end

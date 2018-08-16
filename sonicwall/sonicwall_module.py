@@ -6,7 +6,7 @@
 #   MSFT-ProductName-AddressType-SeqNum-
 #   MSFT-WAC-IPv4-01
 
-
+# info
 def snwlCreateMSFTo365IPv4AddressObject(productList, prodAddrTypeList, f_addrObj, f_addrGrp, prodDict):
     zone_statement = 'zone WAN\n'
     exit_statement = 'exit\n'
@@ -14,17 +14,28 @@ def snwlCreateMSFTo365IPv4AddressObject(productList, prodAddrTypeList, f_addrObj
         if addr != []:
             addrGroup_statement = 'address-group ipv4 AG_MSFT-' + prod + '-IPv4\n'
             f_addrGrp.write(addrGroup_statement)
-            for elems in addr:
-                elems[2] = 'ipv4'
-                ao_name = 'MSFT-' + elems[0] + '-IPv4-' + elems[1]
-                ao_statement = 'address-object ipv4 ' + ao_name + '\n'
-                addr_statement = 'network ' + elems[3] + '\n'
-                f_addrGrp.write(ao_statement)
-                f_addrObj.write(ao_statement)
-                f_addrObj.write(addr_statement)
-                f_addrObj.write(zone_statement)
-                f_addrObj.write(exit_statement)
-            f_addrGrp.write(exit_statement)
+            if elems[2] == 'host':
+                for elems in addr:
+                    ao_name = 'MSFT-' + elems[0] + '-IPv4-' + elems[1]
+                    ao_statement = 'address-object host ' + ao_name + '\n'
+                    addr_statement = 'host ' + elems[3] + '\n'
+                    f_addrGrp.write(ao_statement)
+                    f_addrObj.write(ao_statement)
+                    f_addrObj.write(addr_statement)
+                    f_addrObj.write(zone_statement)
+                    f_addrObj.write(exit_statement)
+                f_addrGrp.write(exit_statement)
+            else:
+                for elems in addr:
+                    ao_name = 'MSFT-' + elems[0] + '-IPv4-' + elems[1]
+                    ao_statement = 'address-object ipv4 ' + ao_name + '\n'
+                    addr_statement = 'network ' + elems[3] + '\n'
+                    f_addrGrp.write(ao_statement)
+                    f_addrObj.write(ao_statement)
+                    f_addrObj.write(addr_statement)
+                    f_addrObj.write(zone_statement)
+                    f_addrObj.write(exit_statement)
+                f_addrGrp.write(exit_statement)
     '''for addr in prodAddrTypeList:
         addr[1][2] = 'ipv4'
         ao_name = 'MSFT-' + addr[1][0] + '-IPv4-' + str(addr[1][1])
@@ -120,6 +131,10 @@ def snwlCreateMSFTo365UrlAddressObject(productList, prodAddrTypeList, f_addrObj,
                 ao_statement = 'address-object fqdn ' + ao_name + '\n'
                 f_addrGrp.write(ao_statement)
         f_addrGrp.write('exit\n')'''
+
+
+def snwlCreateMSFTAddressGroups(productList, prodDict, f_addrGrp):
+
 
 
 def snwlCreateGenericIPv4AddressObject(addrObjName, addrObjectType, f_addrObj):
