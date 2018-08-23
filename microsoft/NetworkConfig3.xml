@@ -1,0 +1,32 @@
+<NetworkConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/ServiceHosting/2011/07/NetworkConfiguration">
+  <VirtualNetworkConfiguration>
+    <Dns>
+      <DnsServers>
+        <DnsServer name="DNS01" IPAddress="10.0.2.4" />
+        <DnsServer name="Level3" IPAddress="209.244.0.3" />
+      </DnsServers>
+    </Dns>
+    <VirtualNetworkSites>
+      <VirtualNetworkSite name="CorpNetwork" Location="Central US">
+        <AddressSpace>
+          <AddressPrefix>10.0.0.0/16</AddressPrefix>
+        </AddressSpace>
+        <Subnets>
+          <Subnet name="SecNet">
+            <AddressPrefix>10.0.0.0/24</AddressPrefix>
+          </Subnet>
+          <Subnet name="FrontEnd">
+            <AddressPrefix>10.0.1.0/24</AddressPrefix>
+          </Subnet>
+          <Subnet name="BackEnd">
+            <AddressPrefix>10.0.2.0/24</AddressPrefix>
+          </Subnet>
+        </Subnets>
+        <DnsServersRef>
+          <DnsServerRef name="DNS01" />
+          <DnsServerRef name="Level3" />
+        </DnsServersRef>
+      </VirtualNetworkSite>
+    </VirtualNetworkSites>
+  </VirtualNetworkConfiguration>
+</NetworkConfiguration>

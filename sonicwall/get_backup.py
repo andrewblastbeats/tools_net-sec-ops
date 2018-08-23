@@ -1,19 +1,35 @@
 import csv
-from paramiko import client
+from paramiko import snwl
 
-class ssh:
-    client = none
 
+class Ssh:
+    snwl = None
 
     def __init__(self, address, username, password):
         print('Connecting to the SonicWALL.')
-        self.client = client.SSHClient()
-        self.client.set_missing_host_key_policy(client.AutoAddPolicy())
-        self.client.connect(address, username=username, password=password, look_for_keys=False)
-
+        self.snwl = snwl.SSHClient()
+        self.snwl.set_missing_host_key_policy(snwl.AutoAddPolicy())
+        self.snwl.connect(address, username=username, password=password, look_for_keys=False)
 
     def sendCommand(self, command):
+        if(self.snwl):
+            stdin, stdout, stderr = self.snwl.exec_command(command)
+            while not stdout.channel.exit_status_ready():
+                if stdout.channel.recv_ready():
+                    all_data = stdout.channel.recv(1024)
+                    while stdout.channel.recv_ready():
+                        all_data += stdout.channel.recv(1024)
+                    print(str(all_data, 'utf8'))
+        else:
+            print('Connection not opened.')
 
+    def __del__(self):
+        self.snwl.close()
+
+sonicwall_command_dict = {
+    'config_t': 'configure terminal',
+    'commit': 'commit'
+}
 sonicwall_list = []
 file_name = "sonicwall-backup-inventory.csv"
 with open(file_name, 'r') as csv_in:
